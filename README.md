@@ -3,7 +3,7 @@
 Convolution is a mathematical operation on two functions which produces a third function that expresses how the shape of one is modified by the other. It contains the discrete convolution with only valid outputs or the whole output with out of bound values.
 """
 __author__ = "Thommy Scheffner"
-__copyright__ = "Copyright 2019"
+__copyright__ = "Copyright 2019, Goethe University for DocStrings"
 __credits__ = ["Thommy Scheffner"]
 
 __license__ = "GPL"
